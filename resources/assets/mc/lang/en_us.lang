@@ -1,0 +1,16 @@
+itemGroup.magustab-MagusCraft Tab
+
+item.ingot_magusium.name=Magusium Ingot
+
+item.axe_magusium.name=Magusium Axe
+item.pickaxe_magusium.name=Magusium Pickaxe
+item.hoe_magusium.name=Magusium Hoe
+item.sword_magusium.name=Magusium Sword
+item.shovel_magusium.name=Magusium Shovel
+
+item.helmet_magusium.name=Magusium Helmet
+item.chestplate_magusium.name=Magusium Chestplate
+item.leggings_magusium.name=Magusium Leggings
+item.boots_magusium.name=Magusium Boots
+
+tile.block_magusium.name=Magusium Block

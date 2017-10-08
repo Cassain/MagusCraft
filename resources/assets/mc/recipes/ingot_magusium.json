@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "A"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "mc:block_magusium"
+        }
+    },
+
+    "result": 
+    {
+        "item": "mc:ingot_magusium",
+        "count": 9
+    }
+}
